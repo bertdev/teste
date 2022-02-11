@@ -29,7 +29,7 @@ As classes seguirão o padrão de nomenclatura PascalCase, começando com o nome
 Ex:
 
 ```js
-  Class UserController {
+  class UserController {
    // code
   }
 ```
