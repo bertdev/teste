@@ -34,4 +34,13 @@ Ex:
   }
 ```
 
+<h4> Arquivos </h4>
+
+Os arquivos seguirão o padrao de nomenclatura: `entidade.funcao.extensao`.
+
+Ex:
+```
+ products.service.js
+```
+
 
